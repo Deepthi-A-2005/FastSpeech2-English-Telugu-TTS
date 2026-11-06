@@ -1,0 +1,17 @@
+{
+  "language": "English",
+  "dataset": "Svarah",
+  "checkpoint": 100,
+  "samples_validated": 705,
+  "total_validation_samples": 705,
+  "elapsed_minutes": 3.39,
+  "device": "CPU",
+  "average_losses": {
+    "total_loss": 9.551186279619353,
+    "mel_loss": 3.9642614993643255,
+    "mel_postnet_loss": 2.8261388333976694,
+    "pitch_loss": 1.0396958836400552,
+    "energy_loss": 1.1818331076503221,
+    "duration_loss": 0.5392569229033187
+  }
+}

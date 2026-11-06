@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.pth
+*.pth.tar
+*.ckpt
+*.zip
+*.npy
+*.npz
+*.flac
+events.out.tfevents.*
+.DS_Store

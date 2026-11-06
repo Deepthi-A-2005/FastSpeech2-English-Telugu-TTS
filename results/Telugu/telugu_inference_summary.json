@@ -1,0 +1,42 @@
+[
+  {
+    "test_id": "T1",
+    "sentence": "న్యూ రోఫార్మ కోలాజికల్ పరిశోధనలో నూతన ఔషధాల ప్రభావాన్ని విశ్లేషించారు.",
+    "tokens": 70,
+    "mel_frames": 662,
+    "audio_seconds": 10.59,
+    "audio_file": "/content/drive/MyDrive/FastSpeech2_Project_v3/output/Telugu_test_results/audio/T1.wav"
+  },
+  {
+    "test_id": "T2a",
+    "sentence": "తాడుపై అతని పట్టు చాలా బలంగా ఉంది.",
+    "tokens": 34,
+    "mel_frames": 300,
+    "audio_seconds": 4.8,
+    "audio_file": "/content/drive/MyDrive/FastSpeech2_Project_v3/output/Telugu_test_results/audio/T2a.wav"
+  },
+  {
+    "test_id": "T2b",
+    "sentence": "ఆమె పట్టు చీరను ధరించి వేడుకకు వచ్చింది.",
+    "tokens": 40,
+    "mel_frames": 374,
+    "audio_seconds": 5.98,
+    "audio_file": "/content/drive/MyDrive/FastSpeech2_Project_v3/output/Telugu_test_results/audio/T2b.wav"
+  },
+  {
+    "test_id": "T3",
+    "sentence": "పులి అడవిలో నిశ్శబ్దంగా నడిచింది.",
+    "tokens": 33,
+    "mel_frames": 284,
+    "audio_seconds": 4.54,
+    "audio_file": "/content/drive/MyDrive/FastSpeech2_Project_v3/output/Telugu_test_results/audio/T3.wav"
+  },
+  {
+    "test_id": "T4",
+    "sentence": "ఈ సమావేశం 2026 నవంబర్ 12వ తేదీ ఉదయం 10:45 గంటలకు ప్రారంభమవుతుంది, సమయానికి సిద్ధంగా ఉంచండి.",
+    "tokens": 91,
+    "mel_frames": 908,
+    "audio_seconds": 14.53,
+    "audio_file": "/content/drive/MyDrive/FastSpeech2_Project_v3/output/Telugu_test_results/audio/T4.wav"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "event_files_found": 0,
+  "plots_saved": [],
+  "data_points": {
+    "total_loss": 0,
+    "mel_loss": 0,
+    "mel_postnet_loss": 0,
+    "pitch_loss": 0,
+    "energy_loss": 0,
+    "duration_loss": 0
+  }
+}

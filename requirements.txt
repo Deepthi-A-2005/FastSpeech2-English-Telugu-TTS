@@ -1,0 +1,16 @@
+numpy
+scipy
+librosa
+PyYAML
+tqdm
+matplotlib
+pandas
+soundfile
+pyworld
+unidecode
+g2p-en
+pypinyin
+nltk
+tensorboard
+torch
+torchaudio

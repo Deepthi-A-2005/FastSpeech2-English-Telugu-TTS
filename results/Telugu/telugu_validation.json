@@ -1,0 +1,17 @@
+{
+    "language": "Telugu",
+    "checkpoint_step": 50,
+    "samples_evaluated": 201,
+    "total_validation_samples": 201,
+    "elapsed_seconds": 498.2593231201172,
+    "elapsed_minutes": 8.304322079817455,
+    "losses": {
+        "Total Loss": 41812.800897854475,
+        "Mel Loss": 5.323550606248391,
+        "Mel PostNet Loss": 4.581553485263046,
+        "Pitch Loss": 40476.08823072139,
+        "Energy Loss": 1326.253316964676,
+        "Duration Loss": 0.5543044341440818
+    },
+    "audio_synthesis_during_validation": false
+}
